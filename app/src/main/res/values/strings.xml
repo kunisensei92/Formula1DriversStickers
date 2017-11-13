@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Formula 1 Drivers Stickers</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/riccardo</item>
+        <item>@drawable/alonso</item>
+        <item>@drawable/verstappen</item>
+        <item>@drawable/hamilton2</item>
+        <item>@drawable/vettel</item>
+        <item>@drawable/peres</item>
+        <item>@drawable/verstappen2</item>
+        <item>@drawable/hamilton3</item>
+        <item>@drawable/grojan</item>
+        <item>@drawable/kimi</item>
+        <item>@drawable/kimi2</item>
+        <item>@drawable/dab</item>
+        <item>@drawable/massa</item>
+        <item>@drawable/rosberg</item>
+        <item>@drawable/alonso3</item>
+        <item>@drawable/alonso2</item>
+        <item>@drawable/mauricio</item>
+        <item>@drawable/riccardo2</item>
+        <item>@drawable/vettel2</item>
+        <item>@drawable/berni</item>
+        <item>@drawable/hamilton</item>
+        <item>@drawable/girl</item>
+        <item>@drawable/charlie</item>
+        <item>@drawable/cup</item>
+        <item>@drawable/yellow</item>
+        <item>@drawable/fan</item>
+        <item>@drawable/fighting</item>
+        <item>@drawable/think</item>
+    </string-array>
+</resources>
